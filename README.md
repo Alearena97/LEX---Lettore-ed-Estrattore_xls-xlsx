@@ -1,4 +1,4 @@
-# Manuale utente per l’utilizzo del software **LEX - Lettore ed Estrattore_xls-xlsx**
+# Manuale utente del software LEX - Lettore ed Estrattore_xls-xlsx
 
 Il software consente all’utente di leggere dei file con estensione .xlsx o .xls ed estrarre da essi dei dati specifici che verranno proposti in output come un file di tipo .csv.
 
