@@ -27,6 +27,8 @@ Per informazioni più dettagliate sulla funzione read_excel ecco un [tutorial](h
 
 Inserire il nome della colonna di interesse nella variabile `colonna`
 
+Inserire i nomi che si  vogliono dare alle colonne nell'output nello stesso ordine in cui esse sono nei file di input nell’array `nomi_colonne =`
+
 Inserire il nome della riga di interesse nella variabile `valore`
 
 Nel caso in cui nel susseguirsi dei documenti la riga interessata abbia di più di un nome si può utilizzare e personalizzare la variabile `valore2`. Se invece il nome è sempre uno inserire nella variabile `valore2` lo stesso nome della variabile `valore`.
