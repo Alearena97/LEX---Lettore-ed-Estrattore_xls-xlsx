@@ -17,7 +17,7 @@ Quelli utilizzati di default nel software sono:
 * `tab` , che indica la tabella del documento che si vuole utilizzare (se il documento presenta più tabelle).
 * `usecols` , ovvero le colonne che si desidera utilizzare. Per esempio A,C:F,K:N,S:V indica che si vogliono utilizzare la colonna A, la colonna C, le colonne da F a K e le colonne da S a V.
 * `skiprows` , che indica quante righe del documento il software deve saltare prima dell’inizio della lettura
-* `names` che indics il modo in cui rinominare le colonne nell'ordine in cui sono nel documento di input
+* `names` che indica il modo in cui rinominare le colonne nell'ordine in cui sono nel documento di input
 
 Ecco il link per visualizzare tutti i parametri disponibili della funzione [pandas read_excel](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html ) 
 
