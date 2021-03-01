@@ -19,7 +19,7 @@ Quelli utilizzati di default nel software sono:
 * 'usecols' , ovvero le colonne che si desidera utilizzare. Per esempio A,C:F,K:N,S:V indica che si vogliono utilizzare la colonna A, la colonna C, le colonne da F a K e le colonne da S a V.
 * 'skiprows' , che indica quante righe del documento il software deve saltare prima dell’inizio della lettura
 
-Di seguito il link della funzione pandas read_excel per vedere tutti i parametri      disponibili: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html 
+Di seguito il link della funzione [pandas read_excel](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html ) per vedere tutti i parametri      disponibili: 
 Inserire il nome della colonna di interesse nella variabile ‘colonna’
 Inserire il nome della riga di interesse nella variabile ‘valore’
 Nel caso in cui nel susseguirsi dei documenti la riga interessata abbia di più di un nome si può utilizzare e personalizzare la variabile ‘valore2’. Se invece il nome è sempre uno inserire nella variabile ‘valore2’ lo stesso nome della variabile ‘valore’.
