@@ -5,6 +5,8 @@ Il software consente all’utente di leggere dei file con estensione .xlsx o .xl
 E’ importante che prima di utilizzare il software si personalizzi il codice in vista dei propri interessi. Nello specifico:
 Rinominare i propri file con la nomenclatura seguente: un file riferito al gennaio del 2015 dovrà essere rinominato 1_2015 e così tutti gli altri.
 
+Tutti i file dovranno essere inseriti in un'unica cartella chiamata DATI.
+
 Personalizzare la lista_anni e la lista_mesi in base al proprio interesse: 
 `lista_anni = np.arange(2015,2021)` - Inserire nella parentesi il periodo di tempo che coprono i file per quanto riguarda l’anno assicurandosi che il secondo numero sia avanti di un anno: in questo caso se i miei file vanno dal 2015 al 2020 allora inserisco 2015 e 2021.
 
